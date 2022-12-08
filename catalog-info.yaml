@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sproutify-web
+  description: Demo app for Getting Started webinar
+  annotations:
+    github.com/project-slug: submittable/sproutify-web
+  tags: []
+spec:
+  type: service
+  owner: unassigned
+  lifecycle: experimental
+  
