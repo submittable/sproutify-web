@@ -1,10 +1,12 @@
+# DO NOT EDIT - Source of this data is https://github.com/submittable/software-catalog-automation/blob/main/src/owners.json
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: sproutify-web
   description: "Demo app for Getting Started webinar"
-  annotations:
+  annotations: 
     github.com/project-slug: submittable/sproutify-web
+    
   tags: []
 spec:
   type: service
