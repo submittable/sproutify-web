@@ -4,7 +4,7 @@ kind: Component
 metadata:
   name: sproutify-web
   description: "Demo app for Getting Started webinar"
-  annotations: 
+  annotations:
     github.com/project-slug: submittable/sproutify-web
     
   tags: []
